@@ -1,3 +1,5 @@
+
+
 # KoinX Tax Loss Harvesting Assignment
 
 This project is a modern, responsive, and pixel-perfect Tax Loss Harvesting interface built for the KoinX Frontend Intern Assignment.
@@ -45,13 +47,13 @@ Follow these simple steps to run the project locally.
 
 ## 📸 Screenshots
 
-*(Placeholders for GitHub - Ensure to drag and drop screenshots here before final submission!)*
-
 **1. Main Dashboard View:**
-![Main Dashboard](placeholder-link)
+
+<img width="1920" height="1080" alt="Screenshot (1051)" src="https://github.com/user-attachments/assets/40e54b80-b73c-4d40-904f-1a4d08e05581" />
 
 **2. Holdings Selected & After-Harvesting State Updated:**
-![Selected State](placeholder-link)
+
+<img width="1920" height="1080" alt="Screenshot (1054)" src="https://github.com/user-attachments/assets/b592b1d4-03ff-46c5-ab53-5bfb11a5f44c" />
 
 ## 🤔 Assumptions Made
 
